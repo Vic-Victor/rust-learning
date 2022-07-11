@@ -6,6 +6,7 @@ fn main() {
 
 /**
  a fibonacci function sample
+ 斐波那契数列函数
  */
 fn fibonacci(x: u32) -> usize {
     if x == 0 {
